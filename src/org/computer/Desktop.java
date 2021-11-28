@@ -6,4 +6,8 @@ public class Desktop {
 		
 System.out.println("Desktop Size of computer 22inch");
 	}
+	private void desktopColor() {
+		// TODO Auto-generated method stub
+		System.out.println("Desktop color is Pink");
+	}
 }
